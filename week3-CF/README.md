@@ -42,7 +42,7 @@
 
 推薦方法             | 評估分數             
 --------------------|:-------------------:
-User-based CF + Rule-based  | 
-Item-based CF + Rule-based  |
-Surprise CF + Rule-based    |
+User-based CF + Rule-based  | 0.10588235294117647
+Item-based CF + Rule-based  | 0.09491525423728814
+Surprise CF + Rule-based    | 
 
